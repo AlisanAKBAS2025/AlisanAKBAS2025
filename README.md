@@ -13,6 +13,7 @@ Languages and Tools
 <img align="left" alt="Unity" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" />
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="Blender" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg)" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
