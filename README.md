@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Yuksel</h1>
+<h1 align="center">Hi , I'm Alişan</h1>
 <h3 align="center">A passionate Computer engineering student from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukseelalkis" alt="Yüksel Alkış" /> </p>
