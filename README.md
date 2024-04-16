@@ -25,6 +25,6 @@ Languages and Tools
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisanakbas&layout=compact&hide=html" alt="Alisan Akbas"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisanAKBAS2025&layout=compact&hide=html" alt="Alisan Akbas"
 
 !Anurag's GitHub stats
