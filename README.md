@@ -11,7 +11,7 @@ I have developed Industrial IoT systems, sales automation, and data extraction t
 
 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="RabbitMQ" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-2-569588.png" />
+<img align="left" alt="RabbitMQ" width="30px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="MQTT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/MQTT_Logo.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
