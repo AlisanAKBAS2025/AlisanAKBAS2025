@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Alişan</h1>
-<h3 align="center">A passionate Computer engineering student from Türkiye</h3>
+<h3 align="center">A passionate Computer engineering from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukseelalkis" alt="Alişan AKBAŞ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlisanAkbas" alt="Alişan AKBAŞ" /> </p>
 
- I'm currently a student and i am improving myself
+ I'm currently a computer engineering and i am improving myself
 
-I'm Alişan from Türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student.
+I have developed Industrial IoT systems, sales automation, and data extraction tools. I have built projects using technologies such as Node.js, Express.js, MongoDB, MQTT, RabbitMQ, Python, and C#. I have experience in real-time data processing, automation, and system integration. I am a solution-oriented developer who is open to learning.
 
 #
 
