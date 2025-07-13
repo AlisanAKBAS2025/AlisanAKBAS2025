@@ -13,7 +13,7 @@ Languages and Tools
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="RabbitMQ" width="30px" src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-<img align="left" alt="MQTT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/MQTT_Logo.svg" />
+<img align="left" alt="MQTT" width="30px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMHB4IiBoZWlnaHQ9IjMwcHgiPjwvc3ZnPg==" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="Unity" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/unitylogo-freelogovectors.net_.png" />
